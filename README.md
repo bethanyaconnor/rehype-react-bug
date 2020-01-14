@@ -2,9 +2,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To reproduce the error, load the app using `yarn start`. You will see something like:
 
+![](/screenshots/step1.png)
+
 Then start to add a list **above** the headers:
 
+![](/screenshots/step2.png)
+
 After the third bullet, some errors will show up in the console:
+
+![](/screenshots/step3.png)
 
 This project only uses a handful of rehype libraries and React.
 
